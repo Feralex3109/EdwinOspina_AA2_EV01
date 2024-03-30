@@ -1,0 +1,2 @@
+modulostockprojdbc.UpdateExampleStockProJDBC
+ModuloStockProJDBC.DeleteExampleStockProJDBC
